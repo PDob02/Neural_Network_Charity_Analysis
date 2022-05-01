@@ -29,9 +29,10 @@ Were you able to achieve the target model performance? No, we were unable to eve
 
 ![](https://github.com/PDob02/Neural_Network_Charity_Analysis/blob/main/Resources/Added_relu_lowered_hidden_node_layer_50.png)
 
-What steps did you take to try and increase model performance? The steps we took were changing the output function to relu, increasing & decreasing epochs, changing the values for the activation function. Unfortunately, all of these were unsuccessful. 
+What steps did you take to try and increase model performance? The steps we took were changing the output function to relu, increasing & decreasing epochs, changing the values for the activation function. We also manipulated the bins up and downward to encompass more or less datasets. Unfortunately, all of these were unsuccessful. 
 
 Manipulating the binning:
-![]https://github.com/PDob02/Neural_Network_Charity_Analysis/blob/main/Resources/Application_counts_binning.png
+
+![](https://github.com/PDob02/Neural_Network_Charity_Analysis/blob/main/Resources/Application_counts_binning.png)
 
 To summarize the overall results of the deep learning model, we would need to look at additional data or be satisfied with a lower accuracy score. Though not characterized as a failure since we adhered to the requirements of the model, plenty of tweaks & tuning had been done but no change in our accuracy score. This code would help with the added layer of another data scientist or interviewing the charity for more qualitative information. 
